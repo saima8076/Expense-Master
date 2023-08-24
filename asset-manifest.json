@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense-Master/static/css/main.120487a1.css",
+    "main.js": "/Expense-Master/static/js/main.126f44d1.js",
+    "static/js/787.afd34582.chunk.js": "/Expense-Master/static/js/787.afd34582.chunk.js",
+    "index.html": "/Expense-Master/index.html",
+    "main.120487a1.css.map": "/Expense-Master/static/css/main.120487a1.css.map",
+    "main.126f44d1.js.map": "/Expense-Master/static/js/main.126f44d1.js.map",
+    "787.afd34582.chunk.js.map": "/Expense-Master/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120487a1.css",
+    "static/js/main.126f44d1.js"
+  ]
+}
